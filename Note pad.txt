@@ -1,0 +1,43 @@
+Content
+
+SDLC (Software develoopment life cycle)
+	Waterfall model 
+	Spiral Model
+	V-model v And V model
+	Prototype model
+	Hybride model
+		Hybride of spiral and prototype
+		Hybride of V and prototype
+	*******Azile model
+
+
+Manual testing
+	Whitebox testing -  developers
+	Blackbox testing - Test engineeris
+		Functional testing
+		Integration testing
+		System testing
+		Acceptance testing
+		Smoke testing
+		Adhoc testing
+		Internationaliuzation testing
+		Regression testing
+		Exploratory testing
+		Performance testing
+		Useabiliuty testing
+		Sanity 
+		
+	
+STLC(Software test life cycle)
+
+Test plan , test case
+Test case design technique
+Procedure to wite the TC
+Defect tracking
+defect life cycle
+defect report
+defect tracking tracking tool - JIRA
+
+
+Release note
+ 
